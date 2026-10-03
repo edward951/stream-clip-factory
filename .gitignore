@@ -1,1 +1,52 @@
-/.env
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Grabaciones y videos
+recordings/
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+
+# Audio
+*.wav
+*.mp3
+*.aac
+*.flac
+
+# Modelos de IA
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales
+tmp/
+temp/
+*.tmp
+
+# Resultados generados
+candidates/
+output/
+clips/
+
+# Variables de entorno / secretos
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
