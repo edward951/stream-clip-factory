@@ -1,0 +1,343 @@
+{
+  "language": "es",
+  "language_probability": 0.9609375,
+  "duration": 30.08,
+  "segments": [
+    {
+      "start": 0.56,
+      "end": 1.5,
+      "text": "Hola, ¿cómo van?",
+      "words": [
+        {
+          "start": 0.56,
+          "end": 1.04,
+          "word": "Hola,",
+          "probability": 0.2095
+        },
+        {
+          "start": 1.1,
+          "end": 1.28,
+          "word": "¿cómo",
+          "probability": 0.9795
+        },
+        {
+          "start": 1.28,
+          "end": 1.5,
+          "word": "van?",
+          "probability": 0.6963
+        }
+      ]
+    },
+    {
+      "start": 2.88,
+      "end": 3.38,
+      "text": "Hola.",
+      "words": [
+        {
+          "start": 2.88,
+          "end": 3.38,
+          "word": "Hola.",
+          "probability": 0.9619
+        }
+      ]
+    },
+    {
+      "start": 6.17,
+      "end": 6.67,
+      "text": "Hola.",
+      "words": [
+        {
+          "start": 6.17,
+          "end": 6.67,
+          "word": "Hola.",
+          "probability": 0.9951
+        }
+      ]
+    },
+    {
+      "start": 8.29,
+      "end": 8.79,
+      "text": "Hola.",
+      "words": [
+        {
+          "start": 8.29,
+          "end": 8.79,
+          "word": "Hola.",
+          "probability": 0.937
+        }
+      ]
+    },
+    {
+      "start": 10.83,
+      "end": 12.47,
+      "text": "Cuenta cuándo vas a hablar.",
+      "words": [
+        {
+          "start": 10.83,
+          "end": 11.33,
+          "word": "Cuenta",
+          "probability": 0.6775
+        },
+        {
+          "start": 11.33,
+          "end": 11.83,
+          "word": "cuándo",
+          "probability": 0.7581
+        },
+        {
+          "start": 11.83,
+          "end": 12.23,
+          "word": "vas",
+          "probability": 0.9961
+        },
+        {
+          "start": 12.23,
+          "end": 12.33,
+          "word": "a",
+          "probability": 0.9995
+        },
+        {
+          "start": 12.33,
+          "end": 12.47,
+          "word": "hablar.",
+          "probability": 0.9351
+        }
+      ]
+    },
+    {
+      "start": 12.79,
+      "end": 13.43,
+      "text": "Para yo.",
+      "words": [
+        {
+          "start": 12.79,
+          "end": 13.29,
+          "word": "Para",
+          "probability": 0.752
+        },
+        {
+          "start": 13.29,
+          "end": 13.43,
+          "word": "yo.",
+          "probability": 0.9736
+        }
+      ]
+    },
+    {
+      "start": 14.51,
+      "end": 17.01,
+      "text": "Uno, dos, tres, cuatro, cinco.",
+      "words": [
+        {
+          "start": 14.51,
+          "end": 15.01,
+          "word": "Uno,",
+          "probability": 0.7363
+        },
+        {
+          "start": 15.13,
+          "end": 15.61,
+          "word": "dos,",
+          "probability": 1.0
+        },
+        {
+          "start": 15.69,
+          "end": 16.11,
+          "word": "tres,",
+          "probability": 1.0
+        },
+        {
+          "start": 16.23,
+          "end": 16.59,
+          "word": "cuatro,",
+          "probability": 0.9995
+        },
+        {
+          "start": 16.67,
+          "end": 17.01,
+          "word": "cinco.",
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "start": 17.43,
+      "end": 17.95,
+      "text": "Digo hola.",
+      "words": [
+        {
+          "start": 17.43,
+          "end": 17.77,
+          "word": "Digo",
+          "probability": 0.6362
+        },
+        {
+          "start": 17.77,
+          "end": 17.95,
+          "word": "hola.",
+          "probability": 0.9475
+        }
+      ]
+    },
+    {
+      "start": 18.47,
+      "end": 21.77,
+      "text": "Amor, es para mirar con el video que he sincronizado el audio.",
+      "words": [
+        {
+          "start": 18.47,
+          "end": 18.97,
+          "word": "Amor,",
+          "probability": 0.5614
+        },
+        {
+          "start": 18.97,
+          "end": 19.03,
+          "word": "es",
+          "probability": 0.9951
+        },
+        {
+          "start": 19.03,
+          "end": 19.13,
+          "word": "para",
+          "probability": 1.0
+        },
+        {
+          "start": 19.13,
+          "end": 19.49,
+          "word": "mirar",
+          "probability": 0.9993
+        },
+        {
+          "start": 19.49,
+          "end": 19.65,
+          "word": "con",
+          "probability": 0.666
+        },
+        {
+          "start": 19.65,
+          "end": 19.81,
+          "word": "el",
+          "probability": 1.0
+        },
+        {
+          "start": 19.81,
+          "end": 20.07,
+          "word": "video",
+          "probability": 0.9897
+        },
+        {
+          "start": 20.07,
+          "end": 20.43,
+          "word": "que",
+          "probability": 0.8696
+        },
+        {
+          "start": 20.43,
+          "end": 20.47,
+          "word": "he",
+          "probability": 0.7993
+        },
+        {
+          "start": 20.47,
+          "end": 21.49,
+          "word": "sincronizado",
+          "probability": 0.9982
+        },
+        {
+          "start": 21.49,
+          "end": 21.61,
+          "word": "el",
+          "probability": 0.9902
+        },
+        {
+          "start": 21.61,
+          "end": 21.77,
+          "word": "audio.",
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 22.41,
+      "end": 24.83,
+      "text": "A la cuenta de tres digo hola.",
+      "words": [
+        {
+          "start": 22.41,
+          "end": 22.91,
+          "word": "A",
+          "probability": 0.832
+        },
+        {
+          "start": 22.91,
+          "end": 22.97,
+          "word": "la",
+          "probability": 0.9951
+        },
+        {
+          "start": 22.97,
+          "end": 24.13,
+          "word": "cuenta",
+          "probability": 0.8657
+        },
+        {
+          "start": 24.13,
+          "end": 24.25,
+          "word": "de",
+          "probability": 0.9668
+        },
+        {
+          "start": 24.25,
+          "end": 24.37,
+          "word": "tres",
+          "probability": 0.9814
+        },
+        {
+          "start": 24.37,
+          "end": 24.55,
+          "word": "digo",
+          "probability": 0.9624
+        },
+        {
+          "start": 24.55,
+          "end": 24.83,
+          "word": "hola.",
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "start": 24.83,
+      "end": 26.73,
+      "text": "Uno, dos, tres, hola.",
+      "words": [
+        {
+          "start": 24.83,
+          "end": 25.25,
+          "word": "Uno,",
+          "probability": 0.9775
+        },
+        {
+          "start": 25.75,
+          "end": 25.93,
+          "word": "dos,",
+          "probability": 1.0
+        },
+        {
+          "start": 26.01,
+          "end": 26.23,
+          "word": "tres,",
+          "probability": 1.0
+        },
+        {
+          "start": 26.25,
+          "end": 26.73,
+          "word": "hola.",
+          "probability": 0.9971
+        }
+      ]
+    }
+  ],
+  "full_text": "Hola, ¿cómo van? Hola. Hola. Hola. Cuenta cuándo vas a hablar. Para yo. Uno, dos, tres, cuatro, cinco. Digo hola. Amor, es para mirar con el video que he sincronizado el audio. A la cuenta de tres digo hola. Uno, dos, tres, hola."
+}

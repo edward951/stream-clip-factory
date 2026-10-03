@@ -1,0 +1,5 @@
+{
+     "terminal.integrated.env.windows": {
+        "PATH": "C:\\AI\\stream-clip-factory\\.venv\\Lib\\site-packages\\nvidia\\cublas\\bin;C:\\AI\\stream-clip-factory\\.venv\\Lib\\site-packages\\nvidia\\cudnn\\bin;${env:PATH}"
+    }
+}
